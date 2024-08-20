@@ -12,11 +12,6 @@
         <a href="https://github.com/sEbi3/simple-police-helper/wiki">Wiki</a> ・
   <a href="https://github.com/sEbi3/simple-police-helper/releases">Changelogs</a>
 </h3>
-    <div align="center">
-  <img src="https://img.shields.io/github/release/sebi3/simple-police-helper"/>
-  <img src="https://img.shields.io/github/repo-size/sEbi3/simple-police-helper"/>
-  <img src="https://img.shields.io/github/stars/sEbi3/simple-police-helper"/>
-</div>
     <br/>
   </p>
 </p>
