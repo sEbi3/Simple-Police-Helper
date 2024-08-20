@@ -38,7 +38,7 @@
    * You can heal yourself and add armor to be prepared for any situations.<br>
    * Clean your clothes from blood and dirt everywhere and at any time.<br>
    * You have the option to get ignored by everyone. <i>(This option is helpful if you want Peds to calm when you're shooting)</i><br>
-   * Inside the Player Settings you can equip Night and Thermal Vision.<br>
+   * Inside the Player Settings you can equip Night and Thermal Vision.<br><br>
 
 ### Police Garage and Stations
    * You can spawn all default police cars that exists in the game from different agencies like <i>bcso, lspd, fib and more</i>.<br>
@@ -46,28 +46,28 @@
      * All default police vehicles are supported.<br>
      * This mod has a system that deletes your last vehicle when you're inside a vehicle in order to avoid spawning to many vehicles.<br>
    * You have the option to teleport to any stations around the map within seconds.
-     * This option will only teleport the Player and not a vehicle.
+     * This option will only teleport the Player and not a vehicle.<br><br>
 
 ### Vehicle Options and Interactions
    * You can easily repair and clean your vehicle or even set your vehicle into god mode.<br>
    * You can delete any vehicle you're in.<br>
    * <b>Tuning:</b> With this menu you can easily tune your vehicle with just one click. <i>(engine, brakes, amored tires, transmission and many more)</i><br>
    * <b>Door Control:</b> You also have the option to open all or certain doors of your current vehicle. <i>(trunk, hood and more)</i><br>
-   * Easily turn off/on your engine or just roll down/up your windows of your vehicle.
+   * Easily turn off/on your engine or just roll down/up your windows of your vehicle.<br><br>
 
 ### Loadouts for your Patrols
    * With this menu you have currently three different police loadouts to choose from: <i>(Police, British and Swat)</i><br>
    * Option to have unlimited ammo and refill your ammo of your current weapon.<br>
-   * Option to remove all your current weapons from your inventory.<br>
+   * Option to remove all your current weapons from your inventory.<br><br>
 
 ### Weather and Time Options
    * Change the weather to your liking. Choose between <i>sunny, clear, neutral, clearing, foggy, overcast, raining, thunder and more</i>.<br>
     * If you're using another trainer, it might overrides the weather system from this mod.
-   * Change the time to your liking. Choose between <i>morning, afternoon, evening and night</i>.<br>
+   * Change the time to your liking. Choose between <i>morning, afternoon, evening and night</i>.<br><br>
 
 ### Want to stay up to date?
   - This plugin has a version control system to let you know when a new Update has been released.<br>
-   ○ You can still play with this mod on your own risk. It's always recommended to update to the latest build that is available.<br>
+   ○ You can still play with this mod on your own risk. It's always recommended to update to the latest build that is available.<br><br>
 
 <!-- GETTING STARTED -->
 ## Getting Started
