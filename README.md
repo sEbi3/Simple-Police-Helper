@@ -42,7 +42,7 @@
 
 ### Police Garage and Stations
    * You can spawn all default police cars that exists in the game from different agencies like <i>bcso, lspd, fib and more</i>.<br>
-   * You can also spawn a any vehicle by name that exists in the game.<br>
+   * You can also spawn any vehicle by name that exists in the game.<br>
      * All default police vehicles are supported.<br>
      * This mod has a system that deletes your last vehicle when you're inside a vehicle in order to avoid spawning to many vehicles.<br>
    * You have the option to teleport to any stations around the map within seconds.
