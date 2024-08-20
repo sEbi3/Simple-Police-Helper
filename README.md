@@ -62,12 +62,12 @@
 
 ### Weather and Time Options
    * Change the weather to your liking. Choose between <i>sunny, clear, neutral, clearing, foggy, overcast, raining, thunder and more</i>.<br>
-    * If you're using another trainer, it might overrides the weather system from this mod.
+     * If you're using another trainer, it might overrides the weather system from this mod.
    * Change the time to your liking. Choose between <i>morning, afternoon, evening and night</i>.<br><br>
 
 ### Want to stay up to date?
-  - This plugin has a version control system to let you know when a new Update has been released.<br>
-   ○ You can still play with this mod on your own risk. It's always recommended to update to the latest build that is available.<br><br>
+  * This plugin has a version control system to let you know when a new Update has been released.<br>
+    * You can still play with this mod on your own risk. It's always recommended to update to the latest build that is available.<br><br>
 
 <!-- GETTING STARTED -->
 ## Getting Started
