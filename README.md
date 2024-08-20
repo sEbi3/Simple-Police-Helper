@@ -1,80 +1,100 @@
-# Simple Police Helper Menu <em>(Build 1.2.1.1)</em>
-<b>Simple Police Helper (SPH)</b> is a simple menu with features to make your patrols easier. The menu is adding some options (see below).<br>
-I'll work on the menu and add new stuff and options. However, you are also more then welcomed to write suggetions in the comments.<br><br>
-                  
-All download instructions are available here or in the download itself:<br>
-- <a href="https://www.lcpdfr.com/downloads/gta5mods/scripts/27266-simple-police-helper-menu/">Download Simple Police Helper on lcpdfr.com</a>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/sEbi3/simple-police-helper">
+    <img src="Logos/SimplePoliceHelper.png" alt="Logo" width="128" height="128">
+  </a>
+<h3 align="center">Simple Police Helper (Build 1.2.1.1)</h3>
+  <p align="center">Simple Police Helper is a simple menu for <a href="https://www.lcpdfr.com/lspdfr/index/"><strong>LSPDFR</strong></a> with different categories, multiple useful options and features that can be accessed quickly during your shift to make your patrols easier.
+    <br/>
+    <h3 align="center">
+  <b><a href="https://www.lcpdfr.com/downloads/gta5mods/scripts/27266-simple-police-helper-menu/">Download</a></b> ・
+        <a href="https://github.com/sEbi3/simple-police-helper/wiki">Wiki</a> ・
+  <a href="https://github.com/sEbi3/simple-police-helper/releases">Changelogs</a>
+</h3>
+    <div align="center">
+  <img src="https://img.shields.io/github/release/sebi3/simple-police-helper"/>
+  <img src="https://img.shields.io/github/repo-size/sEbi3/simple-police-helper"/>
+  <img src="https://img.shields.io/github/stars/sEbi3/simple-police-helper"/>
+</div>
+    <br/>
+  </p>
+</p>
 
---------
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+* [Wiki for Help](https://github.com/sEbi3/simple-police-helper/wiki)
+* [Features of this Mod](#features-of-this-mod)
+  * [Player Settings](#player-settings)
+  * [Police Garage & Stations](#police-garage-and-stations)
+  * [Vehicle Options & Interactions](#vehicle-options-and-interactions)
+  * [Loadouts for your Patrols](#loadouts-for-your-patrols)
+  * [Weather & Time Options](#weather-and-time-options)
+  * [Want to stay up to date?](#want-to-stay-up-to-date)
+* [Getting Started](#getting-started)
+  * [Requirements](#requirements)
+  * [Installation](#installation)
+* [Contributing](#contributing)
 
-## Requirements / dependencies
-- ScriptHookVDotNet <a href="https://de.gta5-mods.com/tools/scripthookv-net">Download here</a>
-- ScriptHookV <a href="http://www.dev-c.com/gtav/scripthookv">Download here</a>
-- NativeUI <a href="https://github.com/Guad/NativeUI/releases">Download here</a>
-- A legal copy of GTA5 <i>(Retail, EpicGames or Steam)</i>
+<!-- FEATURES OF UNITEDCALLOUTS -->
+## Features of this Mod
 
---------
+### Player Settings
+   * You can heal yourself and add armor to be prepared for any situations.<br>
+   * Clean your clothes from blood and dirt everywhere and at any time.<br>
+   * You have the option to get ignored by everyone. <i>(This option is helpful if you want Peds to calm when you're shooting)</i><br>
+   * Inside the Player Settings you can equip Night and Thermal Vision.<br>
 
-## Features of the menu
+### Police Garage and Stations
+   * You can spawn all default police cars that exists in the game from different agencies like <i>bcso, lspd, fib and more</i>.<br>
+   * You can also spawn a any vehicle by name that exists in the game.<br>
+     * All default police vehicles are supported.<br>
+     * This mod has a system that deletes your last vehicle when you're inside a vehicle in order to avoid spawning to many vehicles.<br>
+   * You have the option to teleport to any stations around the map within seconds.
+     * This option will only teleport the Player and not a vehicle.
 
-<b>Player settings</b><br>
-   - You can heal yourself and add armor to be prepared for any situations.<br>
-   - Clean your clothes from blood and dirt everywhere.<br>
-   - Option to get ignored by everyone. <i>(This option is helpful if you want Peds to calm when you're shooting)</i><br>
-   - Activate Night and Thermal Vision.<br>
+### Vehicle Options and Interactions
+   * You can easily repair and clean your vehicle or even set your vehicle into god mode.<br>
+   * You can delete any vehicle you're in.<br>
+   * <b>Tuning:</b> With this menu you can easily tune your vehicle with just one click. <i>(engine, brakes, amored tires, transmission and many more)</i><br>
+   * <b>Door Control:</b> You also have the option to open all or certain doors of your current vehicle. <i>(trunk, hood and more)</i><br>
+   * Easily turn off/on your engine or just roll down/up your windows of your vehicle.
 
-<b>Police garage</b><br>
-   - You can spawn all police cars <i>(bcso, lspd, fib and more)</i><br>
-   - You can also spawn a vehicle by name.<br>
-     ○ All default police vehicles are supported.<br>
-     ○ This plugin has a system that deletes your last vehicle when you're inside a vehicle in order to avoid spawning to many vehicles.<br>
+### Loadouts for your Patrols
+   * With this menu you have currently three different police loadouts to choose from: <i>(Police, British and Swat)</i><br>
+   * Option to have unlimited ammo and refill your ammo of your current weapon.<br>
+   * Option to remove all your current weapons from your inventory.<br>
 
-<b>Vehicle options</b><br>
-   - You can repair and clean your vehicle.<br>
-   - You don't want to use your vehicle anymore? Just use the delete option.<br>
-   - With this menu you can easily tune your vehicle with just one click. <i>(engine, brakes, amored tires, transmission and many more)</i><br>
-   - You can also set your vehicle into god mode.<br>
+### Weather and Time Options
+   * Change the weather to your liking. Choose between <i>sunny, clear, neutral, clearing, foggy, overcast, raining, thunder and more</i>.<br>
+    * If you're using another trainer, it might overrides the weather system from this mod.
+   * Change the time to your liking. Choose between <i>morning, afternoon, evening and night</i>.<br>
 
-<b>Teleport to police stations</b><br>
-   - You can teleport yourself to the main police stations.<br>
-    ○ This option will only teleport the player and not a vehicle.<br>
+### Want to stay up to date?
+  - This plugin has a version control system to let you know when a new Update has been released.<br>
+   ○ You can still play with this mod on your own risk. It's always recommended to update to the latest build that is available.<br>
 
-<b>Scenarios</b><br>
-   - This menu has a few police related animations/scenarios you can play.<br>
+<!-- GETTING STARTED -->
+## Getting Started
 
-<b>Vehicle interactions</b><br> 
-   - Open all or certain doors your current vehicle. <i>(trunk, hood and more)</i><br>
-   - Option to turn your engine on/off.<br>
-   - You can also roll down/up the windows of your vehicle.<br>
+### Requirements
+- Script Hook V Dot Net <a href="https://de.gta5-mods.com/tools/scripthookv-net">Download here</a>
+- Script Hook V <a href="http://www.dev-c.com/gtav/scripthookv">Download here</a>
+- Native UI <a href="https://github.com/Guad/NativeUI/releases">Download here</a>
+- A legal copy of GTA5 <i>(Retail, EpicGames or Steam)</i><br>
 
-<b>Loadouts for your patrols</b><br>
-   - With this menu you have 3 different police loadouts. <i>(Police, British and Swat)</i><br>
-   - Option to have unlimited ammo.<br>
-   - Option to refill your ammo.<br>
-   - Option to remove all your current weapons.<br>
+### Installation
 
-<b>Change Weather</b><br>
-   - Change the weather for your liking. <i>(sunny, clear, neutral, clearing, foggy, overcast, raining, thunder and more.)</i><br>
-
-<b>Change Time</b><br>
-   - Change the time for your liking. <i>(morning, afternoon, evening and night)</i><br>
-
-<b>Want to stay up to date?</b><br>
-  - This plugin has a version control system to let you know when a new has been released.<br>
-   ○ You can still play with the plugin on your own risk. It's always recommended to update to the latest build.<br>
+* Copy the files of the <code>"scripts"</code> folder in: <code>"GTA V directory\scripts\"</code>.<br>
+* Alternative: Drag and drop the folder <code>"scripts"</code> into your main directory of GTA5.<br><br>
  
---------
+<!-- CONTRIBUTING -->
+## Contributing
 
-## Support
-If you like my work and want access to early versions, please consider supporting me on [**Patreon**](https://www.patreon.com/sEbi3). 
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. 
 
---------
-
-## Terms
-You can use and edit this code to your liking. Don't ever claim it to be your own code and provide credit if you are using this code for your project.
-You are not allowed to reupload the exact same code. This means you are now allowed to copy the classes for changing text for translations or dialogs.
-
-Using the code means parts of the source code in order to implement them for your own projects.
-You are not allowed to reupload the exact same classes without any big changes except for using the code for personal perposes only.
-
-You can find the full license here: https://sebi3.de/EULA
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request<br><br>
