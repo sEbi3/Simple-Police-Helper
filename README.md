@@ -5,7 +5,7 @@
     <img src="Logos/SimplePoliceHelper.png" alt="Logo" width="128" height="128">
   </a>
 <h3 align="center">Simple Police Helper (Build 1.2.1.1)</h3>
-  <p align="center">Simple Police Helper is a simple menu for <a href="https://www.lcpdfr.com/lspdfr/index/"><strong>LSPDFR</strong></a> with different categories, multiple useful options and features that can be accessed quickly during your shift to make your patrols easier.
+  <p align="center">Simple Police Helper is a simple menu for <a href="https://www.lcpdfr.com/lspdfr/index/"><strong>LSPDFR</strong></a>, a popular Grand Theft Auto V modification, with different categories, multiple useful options and features that can be accessed quickly during your shift to make your patrols easier.
     <br/>
     <h3 align="center">
   <b><a href="https://www.lcpdfr.com/downloads/gta5mods/scripts/27266-simple-police-helper-menu/">Download</a></b> ・
@@ -15,6 +15,13 @@
     <br/>
   </p>
 </p>
+
+##
+> [!NOTE]
+> **Compatibility Warning**
+>
+> This plugin depends on Community Script Hook V .NET, which is broken and may cause random crashes in your game. This has been reported to their developers, but no stable release is currently available that fixes this critical problem.
+> Some users have reported success with their **nightly/unstable builds**.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -86,10 +93,4 @@
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. 
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request<br><br>
+Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. 
