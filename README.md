@@ -17,7 +17,7 @@
 </p>
 
 ##
-> [!NOTE]
+> [!WARNING]
 > **Compatibility Warning**
 >
 > This plugin depends on Community Script Hook V .NET, which is broken and may cause random crashes in your game. This has been reported to their developers, but no stable release is currently available that fixes this critical problem.
