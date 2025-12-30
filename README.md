@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sEbi3/simple-police-helper">
-    <img src="Logos/SimplePoliceHelper.png" alt="Logo" width="128" height="128">
+    <img src="Logos/SimplePoliceHelperLogo.png" alt="Logo" width="128" height="128">
   </a>
 <h3 align="center">Simple Police Helper (Build 1.2.1.1)</h3>
   <p align="center">Simple Police Helper is a simple menu for <a href="https://www.lcpdfr.com/lspdfr/index/"><strong>LSPDFR</strong></a>, a popular Grand Theft Auto V modification, with different categories, multiple useful options and features that can be accessed quickly during your shift to make your patrols easier.
