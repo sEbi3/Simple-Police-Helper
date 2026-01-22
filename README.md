@@ -7,21 +7,19 @@
 <h3 align="center">Simple Police Helper (Build 1.2.1.1)</h3>
   <p align="center">Simple Police Helper is a simple menu for <a href="https://www.lcpdfr.com/lspdfr/index/"><strong>LSPDFR</strong></a>, a popular Grand Theft Auto V modification, with different categories, multiple useful options and features that can be accessed quickly during your shift to make your patrols easier.
     <br/>
-    <h3 align="center">
+    <h4 align="center">
   <b><a href="https://www.lcpdfr.com/downloads/gta5mods/scripts/27266-simple-police-helper-menu/">Download</a></b> ・
         <a href="https://github.com/sEbi3/simple-police-helper/wiki">Wiki</a> ・
   <a href="https://github.com/sEbi3/simple-police-helper/releases">Changelogs</a>
-</h3>
+</h4>
+  <div align="center">
+  <img src="https://img.shields.io/github/downloads/sebi3/Simple-Police-Helper/total"/>
+  <img src="https://img.shields.io/github/release/sebi3/Simple-Police-Helper"/>
+  <img src="https://img.shields.io/github/repo-size/sEbi3/Simple-Police-Helper"/>
+</div>
     <br/>
   </p>
 </p>
-
-##
-> [!WARNING]
-> **Compatibility Warning**
->
-> This plugin depends on Community Script Hook V .NET, which is broken and may cause random crashes in your game. This has been reported to their developers, but no stable release is currently available that fixes this critical problem.
-> Some users have reported success with their **nightly/unstable builds**.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -32,7 +30,7 @@
   * [Vehicle Options & Interactions](#vehicle-options-and-interactions)
   * [Loadouts for your Patrols](#loadouts-for-your-patrols)
   * [Weather & Time Options](#weather-and-time-options)
-  * [Want to stay up to date?](#want-to-stay-up-to-date)
+  * [Stay up to Date](#stay-up-to-date)
 * [Getting Started](#getting-started)
   * [Requirements](#requirements)
   * [Installation](#installation)
@@ -42,39 +40,40 @@
 ## Features of this Mod
 
 ### Player Settings
-   * You can heal yourself and add armor to be prepared for any situations.<br>
-   * Clean your clothes from blood and dirt everywhere and at any time.<br>
-   * You have the option to get ignored by everyone. <i>(This option is helpful if you want Peds to calm when you're shooting)</i><br>
-   * Inside the Player Settings you can equip Night and Thermal Vision.<br><br>
+   * Heal yourself and add armor at any time to stay prepared for any situation.<br>
+   * Instantly clean your character’s clothes from blood and dirt.<br>
+   * Option to be ignored by all Peds. <i>(Useful if you want peds to remain calm during firefights.)</i><br>
+   * Equip <b>Night Vision</b> and <b>Thermal Vision</b> directly from the Player Settings menu.<br><br>
 
 ### Police Garage and Stations
-   * You can spawn all default police cars that exists in the game from different agencies like <i>bcso, lspd, fib and more</i>.<br>
-   * You can also spawn any vehicle by name that exists in the game.<br>
+   * Spawn all default police vehicles available in the game from various agencies such as <b>BCSO</b>, <b>LSPD</b>, <b>FIB</b>, and more.<br>
+   * Spawn any vehicle by name that exists in the game.<br>
      * All default police vehicles are supported.<br>
-     * This mod has a system that deletes your last vehicle when you're inside a vehicle in order to avoid spawning to many vehicles.<br>
-   * You have the option to teleport to any stations around the map within seconds.
-     * This option will only teleport the Player and not a vehicle.<br><br>
+     * Includes a system that automatically deletes your previously spawned vehicle when entering a new one, preventing vehicle clutter.<br>
+   * Instantly teleport to any police station across the map within seconds.
+     * Note: This option teleports the player only, not the vehicle.<br><br>
 
 ### Vehicle Options and Interactions
-   * You can easily repair and clean your vehicle or even set your vehicle into god mode.<br>
-   * You can delete any vehicle you're in.<br>
-   * <b>Tuning:</b> With this menu you can easily tune your vehicle with just one click. <i>(engine, brakes, amored tires, transmission and many more)</i><br>
-   * <b>Door Control:</b> You also have the option to open all or certain doors of your current vehicle. <i>(trunk, hood and more)</i><br>
-   * Easily turn off/on your engine or just roll down/up your windows of your vehicle.<br><br>
+   * Quickly repair and clean your vehicle or enable <b>God Mode</b>.<br>
+   * Delete the vehicle you are currently using.<br>
+   * <b>Vehicle Tuning:</b> Upgrade your vehicle with a single click. <i>(engine, brakes, amored tires, transmission and more)</i><br>
+   * <b>Door Control:</b> Open or close all or specific vehicle doors. <i>(trunk, hood and more)</i><br>
+   * Easily toggle the engine on or off and roll vehicle windows up or down.<br><br>
 
 ### Loadouts for your Patrols
-   * With this menu you have currently three different police loadouts to choose from: <i>(Police, British and Swat)</i><br>
-   * Option to have unlimited ammo and refill your ammo of your current weapon.<br>
-   * Option to remove all your current weapons from your inventory.<br><br>
+   * Choose between three different police loadouts: <b>Police</b>, <b>British</b>, and <b>SWAT</b>.<br>
+   * Enable unlimited ammo and instantly refill ammunition for your current weapon.<br>
+   * Remove all currently equipped weapons from your inventory.<br><br>
 
 ### Weather and Time Options
-   * Change the weather to your liking. Choose between <i>sunny, clear, neutral, clearing, foggy, overcast, raining, thunder and more</i>.<br>
-     * If you're using another trainer, it might overrides the weather system from this mod.
-   * Change the time to your liking. Choose between <i>morning, afternoon, evening and night</i>.<br><br>
+   * Change the weather to your preference. Choose from <b>sunny</b>, <b>neutral</b>, <b>clearing</b>, <b>foggy</b>, <b>raining</b>, <b>thunder</b>, and more.<br>
+     * If you are using another trainer, it may override this mod’s weather system.
+   * Adjust the in-game time as desired, including <b>morning</b>, <b>afternoon</b>, <b>evening</b>, and <b>night</b>.<br><br>
 
-### Want to stay up to date?
-  * This plugin has a version control system to let you know when a new Update has been released.<br>
-    * You can still play with this mod on your own risk. It's always recommended to update to the latest build that is available.<br><br>
+### Stay up to Date
+  * This plugin includes an integrated version control system that notifies players when a new update is available.<br>
+    * While older versions may remain playable, using outdated builds is done at the player’s own risk.<br>
+      Updating to the latest available version is always strongly recommended for stability and compatibility.<br><br>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -83,14 +82,14 @@
 - Script Hook V Dot Net <a href="https://de.gta5-mods.com/tools/scripthookv-net">Download here</a>
 - Script Hook V <a href="http://www.dev-c.com/gtav/scripthookv">Download here</a>
 - Native UI <a href="https://github.com/Guad/NativeUI/releases">Download here</a>
-- A legal copy of GTA5 <i>(Retail, EpicGames or Steam)</i><br>
+- A legal copy of Grand Theft Auto V<br>
+    <i>(Supported platforms include Retail, Epic Games, and Steam versions.)</i><br>
 
 ### Installation
-
-* Copy the files of the <code>"scripts"</code> folder in: <code>"GTA V directory\scripts\"</code>.<br>
-* Alternative: Drag and drop the folder <code>"scripts"</code> into your main directory of GTA5.<br><br>
+* Copy the contents of the <code>"scripts"</code> folder into: <code>"GTA V directory\scripts\"</code>.<br>
+* Alternative: Drag and drop the <code>"scripts"</code> folder into your main directory of GTAV.<br><br>
  
 <!-- CONTRIBUTING -->
 ## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. 
+Contributions are what make the open-source community an inspiring place to learn, collaborate, and grow.
+Any form of contribution — whether code improvements, bug reports, or feature suggestions — is highly appreciated.
